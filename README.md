@@ -14,6 +14,7 @@ Each host exists in a state of `unexposed`, `infected`, or `recovered`.
 
 2
 2 on master
+3 on feature-branch
 
 ## mik /master  ##
 
